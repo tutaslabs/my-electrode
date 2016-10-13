@@ -8,6 +8,9 @@
     "email": "tutasg@gmail.com",
     "url": ""
   },
+  "engines": {
+    "node": "6.5.x"
+  },
   "contributors": [],
   "files": [
     "server",
